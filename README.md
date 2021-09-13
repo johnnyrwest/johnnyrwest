@@ -21,9 +21,10 @@ Some of the technologies used:
     - T-SQL queries and stored procedures
  - Git & CLI
 
-In preparation for my next role, I'm staying sharp at all these as well as learning:
+Now I'm a Software Engineer at The Change Company where I've added on
   - Next.js
-  - Unit testing
+  - Auth0
+  - Azure Devops
 
 I look forward to sharing what I'm up to here on GitHub!
 
