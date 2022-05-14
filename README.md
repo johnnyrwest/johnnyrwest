@@ -2,12 +2,11 @@
 
 I'm a software engineer / full-stack developer.
 
-I've been working at [The Change Company](https://www.thechangecompany.com/) building tools that help the CDFI mortgage market.
-
-- [xChange](https://www.xchangefi.com/) is an e-commerce marketplace for purchasing secondary loans
+I've been working at [The Change Company](https://www.thechangecompany.com/) building tools that help the CDFI mortgage market:
+- [xChange](https://www.xchangefi.com/) is an e-commerce marketplace that sells secondary loans
 - [Prequalification](https://applynow.changemtg.com/) is a customer-facing mortgage pre-qualifier
 
-My most recent endeavor before that was at [Host A Fan](https://hostafan.azurewebsites.net/), where I built an MVP application from the ground up.
+Before that I was at [Host A Fan](https://hostafan.azurewebsites.net/), where I built an MVP application from the ground up.
 
 Some of the technologies used: 
  - React.js (Next.js)
@@ -15,12 +14,13 @@ Some of the technologies used:
     - Formik/Yup
     - Auth0
     - Axios
+    - SWR
+    - Redux / Redux-saga
  - C# / .NET
-    - ReSTful APIs
     - Azure Functions
+    - ReST APIs
     - AWS
  - MS SQL Server
-    - T-SQL queries and stored procedures
  - Cosmos DB
  - Azure Devops
 
