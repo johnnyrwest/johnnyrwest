@@ -2,31 +2,27 @@
 
 I'm a software engineer / full-stack developer.
 
-My most recent endeavor was at Host A Fan, where we worked on building an MVP application from the ground up.
+I've been working at [The Change Company](https://www.thechangecompany.com/) building tools that help the CDFI mortgage market.
 
-I built out some really cool features, and have included some in my Samples repo.
+- [xChange](https://www.xchangefi.com/) is an e-commerce marketplace for purchasing secondary loans
+- [Prequalification](https://applynow.changemtg.com/) is a customer-facing mortgage pre-qualifier
+
+My most recent endeavor before that was at [Host A Fan](https://hostafan.azurewebsites.net/), where I built an MVP application from the ground up.
 
 Some of the technologies used: 
- - React.js
+ - React.js (Next.js)
     - Material UI
     - Formik/Yup
-    - FontAwesome
+    - Auth0
     - Axios
- - .NET Core 3.1
-    - WEB API
-    - AWS / SeatGeek APIs
-    - ADO.NET
-    - Dependency injection
+ - C# / .NET
+    - ReSTful APIs
+    - Azure Functions
+    - AWS
  - MS SQL Server
     - T-SQL queries and stored procedures
- - Git & CLI
-
-Now I'm a Software Engineer at The Change Company where I've added on
-  - Next.js
-  - Auth0
-  - Azure Devops
-
-I look forward to sharing what I'm up to here on GitHub!
+ - Cosmos DB
+ - Azure Devops
 
 <!--
 **johnnyrwest/johnnyrwest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
