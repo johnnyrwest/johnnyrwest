@@ -3,7 +3,7 @@
 I'm a software engineer / full-stack developer.
 
 I've been working at [The Change Company](https://www.thechangecompany.com/) building tools that help the CDFI mortgage market:
-- [xChange](https://www.xchangefi.com/) is an e-commerce marketplace that sells secondary loans
+- [xChange](https://www.xchangefi.com/) is an e-commerce secondary loans marketplace
 - [Prequalification](https://applynow.changemtg.com/) is a customer-facing mortgage pre-qualifier
 
 Before that I was at [Host A Fan](https://hostafan.azurewebsites.net/), where I built an MVP application from the ground up.
