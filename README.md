@@ -8,22 +8,6 @@ I've been working at [The Change Company](https://www.thechangecompany.com/) bui
 
 Before that I was at [Host A Fan](https://hostafan.azurewebsites.net/), where I built an MVP application from the ground up.
 
-Some of the technologies used: 
- - React.js (Next.js)
-    - Material UI
-    - Formik/Yup
-    - Auth0
-    - Axios
-    - SWR
-    - Redux / Redux-saga
- - C# / .NET
-    - Azure Functions
-    - ReST APIs
-    - AWS
- - MS SQL Server
- - Cosmos DB
- - Azure Devops
-
 <!--
 **johnnyrwest/johnnyrwest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
