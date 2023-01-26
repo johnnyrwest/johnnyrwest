@@ -2,11 +2,13 @@
 
 I'm a software engineer / full-stack developer.
 
-I've been working at [The Change Company](https://www.thechangecompany.com/) building tools that help the CDFI mortgage market:
-- [xChange](https://www.xchangefi.com/) is an e-commerce secondary loans marketplace
-- [Prequalification](https://applynow.changemtg.com/) is a customer-facing mortgage pre-qualifier
+I'm currently working at [Onward](https://www.onwardapp.com/) - a mobile application financial tool for co-parents.
 
-Before that I was at [Host A Fan](https://hostafan.azurewebsites.net/), where I built an MVP application from the ground up.
+Before that, I was at [The Change Company](https://www.thechangecompany.com/) building tools to help the community-driven mortgage market:
+- [xChange](https://www.xchangefi.com/) is a marketplace for secondary loans
+- [Prequalification](https://applynow.changemtg.com/) is a consumer-facing mortgage pre-qualifier
+
+Before that I was at [Host A Fan](https://hostafan.azurewebsites.net/), building out an Airbnb-styled booking platform geared toward connecting traveling event-goers to locals who could host, lodge, and ultimately show them around town.
 
 <!--
 **johnnyrwest/johnnyrwest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
