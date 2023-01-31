@@ -2,7 +2,7 @@
 
 I'm a software engineer / full-stack developer.
 
-I'm currently working at [Onward](https://www.onwardapp.com/) - a mobile application financial tool for co-parents.
+I'm currently working at [Onward](https://www.onwardapp.com/) - a hybrid mobile financial tool for co-parents.
 
 Before that, I was at [The Change Company](https://www.thechangecompany.com/) building tools to help the community-driven mortgage market:
 - [xChange](https://www.xchangefi.com/) is a marketplace for secondary loans
